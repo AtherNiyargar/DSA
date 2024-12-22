@@ -91,7 +91,7 @@ int main() {
 	5. Empty Stack\n\
 	6. Exit\n");
 		scanf("%d", &choice);
-		getchar();
+		// getchar();
 		system("clear");
 
 		switch(choice) {
