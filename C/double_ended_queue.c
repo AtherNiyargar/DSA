@@ -106,7 +106,7 @@ int size(const int front, const int rear) {
 int main() {
 
 	int front = -1,
-		  rear = -1;
+	    rear = -1;
 
 	int *arr = (int *)malloc(sizeof(int) * SIZE);
 
